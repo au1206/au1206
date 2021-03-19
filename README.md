@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:akshayuppal12@gmail.com">
-  <img align="left" alt="akshayuppal12" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+<a href="mailto:akshayuppal12@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="akshayuppal12" height="30" width="100"/></a>
 <a href="https://twitter.com/akshayuppal12" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="akshayuppal12" height="30" width="100" /></a>
 <a href="https://www.linkedin.com/in/uppalakshay/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/uppalakshay/" height="30" width="100" /></a>
 <a href="https://kaggle.com/au12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="au12" height="30" width="40" /></a>
