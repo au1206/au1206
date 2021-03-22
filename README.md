@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height=300 width=600 />
+![Header image](https://github.com/au1206/au1206/blob/main/Header.png)
 </br>
-
-<h1 align="center">Hi 👋, I'm Akshay Uppal</h1>
 <h3 align="center">A Machine Learning engineer working for a leading IDP startup.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=au1206&label=Profile%20views&color=0e75b6&style=flat" alt="au1206" /> </p>
