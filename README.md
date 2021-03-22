@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/uppalakshay/](https://www.linkedin.com/in/uppalakshay/)
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif' width='200"'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:akshayuppal12@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="akshayuppal12" height="30" width="100"/></a>
