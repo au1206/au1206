@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height=300 width=600 />
+</br>
+
 <h1 align="center">Hi 👋, I'm Akshay Uppal</h1>
 <h3 align="center">A Machine Learning engineer working for a leading IDP startup.</h3>
 
