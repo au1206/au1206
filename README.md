@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/uppalakshay/](https://www.linkedin.com/in/uppalakshay/)
 
+- Check Me Out at: [https://au1206.github.io/](https://au1206.github.io/)
+
 <img align='right' src='https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif' width='300'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
