@@ -43,24 +43,28 @@ Here are some ideas to get you started:
 <p align="left"> 
     <!-- PyTorch -->
   <a href="https://pytorch.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="50" height="50"/>
   </a>
     <!-- Hugging Face -->
   <a href="https://huggingface.co/">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50"/>
   </a>
-<a href="https://www.python.org"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="50" height="50"/> </a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="50"/> </a> 
+  <a href="https://www.python.org"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="50" height="50"/> </a> 
   <!-- LangChain -->
   <a href="https://www.langchain.com/">
     <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/svg/logo-dark.svg" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama-dark.svg" alt="ollama" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" alt="ollama" width="50" height="50"/>
   </a>
+    <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="50"/> </a> 
 <a href="https://www.tensorflow.org"> <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" alt="tensorflow" width="50" height="50"/> </a> 
 <a href="https://flask.palletsprojects.com/"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
-</a> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/>
+</a>
+    <a href="https://fastapi.tiangolo.com/"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/>
+</a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="80" height="40"/> </a>  
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  
